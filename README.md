@@ -1,18 +1,18 @@
-# ML Papers Explained
+# PaperReview
 
 Explanations to key concepts in ML
 
 ## Language Models
 
-| Paper | Date | Description |
+| Paper | Date | Description | podcast |
 |---|---|---|
-| [Transformer](https://ritvik19.medium.com/papers-explained-01-transformer-474bb60a33f7) | June 2017 | An Encoder Decoder model, that introduced multihead attention mechanism for language translation task. |
-| [Elmo](https://ritvik19.medium.com/papers-explained-33-elmo-76362a43e4) | February 2018 | Deep contextualized word representations that captures both intricate aspects of word usage and contextual variations across language contexts. |
+| [Transformer](https://ritvik19.medium.com/papers-explained-01-transformer-474bb60a33f7) | June 2017 | An Encoder Decoder model, that introduced multihead attention mechanism for language translation task. | [zh](https://www.bilibili.com/audio/au4555706?type=1?type=6)|
+| [Elmo](https://ritvik19.medium.com/papers-explained-33-elmo-76362a43e4) | February 2018 | Deep contextualized word representations that captures both intricate aspects of word usage and contextual variations across language contexts. | [zh](https://www.bilibili.com/audio/au4556959?type=1?type=6) |
 | [Marian MT](https://ritvik19.medium.com/papers-explained-150-marianmt-1b44479b0fd9) | April 2018 | A Neural Machine Translation framework written entirely in C++ with minimal dependencies, designed for high training and translation speed. |
-| [GPT](https://ritvik19.medium.com/papers-explained-43-gpt-30b6f1e6d226) | June 2018 | A Decoder only transformer which is autoregressively pretrained and then finetuned for specific downstream tasks using task-aware input transformations. |
-| [BERT](https://ritvik19.medium.com/papers-explained-02-bert-31e59abc0615) | October 2018 | Introduced pre-training for Encoder Transformers. Uses unified architecture across different tasks. |
-| [Transformer XL](https://ritvik19.medium.com/papers-explained-34-transformerxl-2e407e780e8) | January 2019 | Extends the original Transformer model to handle longer sequences of text by introducing recurrence into the self-attention mechanism. |
-| [XLM](https://ritvik19.medium.com/papers-explained-158-xlm-42a175e93caf) | January 2019 | Proposes two methods to learn cross-lingual language models (XLMs): one unsupervised that only relies on monolingual data, and one supervised that leverages parallel data with a new cross-lingual language model objective.  |
+| [GPT](https://ritvik19.medium.com/papers-explained-43-gpt-30b6f1e6d226) | June 2018 | A Decoder only transformer which is autoregressively pretrained and then finetuned for specific downstream tasks using task-aware input transformations. | [zh](https://www.bilibili.com/audio/au4557822?type=1?type=6) |
+| [BERT](https://ritvik19.medium.com/papers-explained-02-bert-31e59abc0615) | October 2018 | Introduced pre-training for Encoder Transformers. Uses unified architecture across different tasks. | [zh](https://www.bilibili.com/audio/au4557859?type=1?type=6) |
+| [Transformer XL](https://ritvik19.medium.com/papers-explained-34-transformerxl-2e407e780e8) | January 2019 | Extends the original Transformer model to handle longer sequences of text by introducing recurrence into the self-attention mechanism. | [zh](https://www.bilibili.com/audio/au4558187?type=1?type=6) |
+| [XLM](https://ritvik19.medium.com/papers-explained-158-xlm-42a175e93caf) | January 2019 | Proposes two methods to learn cross-lingual language models (XLMs): one unsupervised that only relies on monolingual data, and one supervised that leverages parallel data with a new cross-lingual language model objective.  | [zh](https://www.bilibili.com/audio/au4559587?type=1?type=6) |
 | [GPT 2](https://ritvik19.medium.com/papers-explained-65-gpt-2-98d0a642e520) | February 2019 | Demonstrates that language models begin to learn various language processing tasks without any explicit supervision. | 
 | [Sparse Transformer](https://ritvik19.medium.com/papers-explained-122-sparse-transformer-906a0be1e4e7) | April 2019 | Introduced sparse factorizations of the attention matrix to reduce the time and memory consumption to O(n√ n) in terms of sequence lengths. |
 | [UniLM](https://ritvik19.medium.com/papers-explained-72-unilm-672f0ecc6a4a) | May 2019 | Utilizes a shared Transformer network and specific self-attention masks to excel in both language understanding and generation tasks. |
