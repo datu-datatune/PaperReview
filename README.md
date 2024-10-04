@@ -5,7 +5,7 @@ Explanations to key concepts in ML
 ## Language Models
 
 | Paper | Date | Description | podcast |
-|---|---|---|
+|---|---|---|---|
 | [Transformer](https://ritvik19.medium.com/papers-explained-01-transformer-474bb60a33f7) | June 2017 | An Encoder Decoder model, that introduced multihead attention mechanism for language translation task. | [zh](https://www.bilibili.com/audio/au4555706?type=1?type=6)|
 | [Elmo](https://ritvik19.medium.com/papers-explained-33-elmo-76362a43e4) | February 2018 | Deep contextualized word representations that captures both intricate aspects of word usage and contextual variations across language contexts. | [zh](https://www.bilibili.com/audio/au4556959?type=1?type=6) |
 | [Marian MT](https://ritvik19.medium.com/papers-explained-150-marianmt-1b44479b0fd9) | April 2018 | A Neural Machine Translation framework written entirely in C++ with minimal dependencies, designed for high training and translation speed. |
